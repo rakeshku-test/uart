@@ -102,5 +102,6 @@ module uart_tx
     endcase
   end
 //here user1 adds code
+//here user1 adds code
 
 endmodule
