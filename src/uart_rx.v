@@ -106,5 +106,7 @@ module uart_rx
     endcase
   end
 //here user1 adds some code
+//here user1 adds some code
+//here user1 adds some code
 
 endmodule
